@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amabilereis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<strong>Entre em contato comigo:<strong>
+<strong>Entre em contato:<strong>
 
 <a href='https://api.whatsapp.com/send?phone=5511981644067&text=Ol%C3%A1%2C%20Amabile!'> <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'></a>
 
