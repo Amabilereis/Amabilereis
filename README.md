@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2>Que bom que você está aqui!</h2>
+  <h4>Chega mais, acompanhe o meu desenvolvimento:</h4>
 
-<!--
-**Amabilereis/Amabilereis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amabilereis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amabilereis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<strong>Entre em contato comigo:<strong>
+
+<a href='https://api.whatsapp.com/send?phone=5511981644067&text=Ol%C3%A1%2C%20Amabile!'> <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'></a>
+
+<a href='https://www.linkedin.com/in/amabile-fonseca-4260a6160/'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'> </a>
+    
+    
+
+
