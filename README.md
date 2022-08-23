@@ -1,4 +1,4 @@
-<h2>Que bom que você está aqui!</h2>
+<h2>Olá!</h2>
   <h4>Chega mais e acompanhe o meu desenvolvimento:</h4>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
